@@ -4,4 +4,11 @@
 ![Screenshot](screenshots/crypto-app.png)
 
 # How to run the project
-```npm i```
+
+```
+git clone https://github.com/TheUs3rName/crypto-app
+cd crypto-app
+npm i
+npm run dev
+```
+
