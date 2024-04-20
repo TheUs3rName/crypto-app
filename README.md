@@ -4,4 +4,4 @@
 ![Screenshot](screenshots/crypto-app.png)
 
 # How to run the project
-`npm i`
+```npm i```
