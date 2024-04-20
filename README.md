@@ -1,6 +1,7 @@
-# React.js project for get CryptoCorrency details
+# React.js project for get CryptoCorrency details with CoinGecko API.
 
-with CoinGecko API.
+# Screenshot
+![Screenshot](screenshots/crypto-app.png)
 
 # How to run the project
-<p></p>
+`npm i`
