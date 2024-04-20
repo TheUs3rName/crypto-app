@@ -3,6 +3,9 @@
 # Screenshot
 ![Screenshot](screenshots/crypto-app.png)
 
+# Demo
+you can see the demo in this (Site)[https://crypto-app-phi-flame.vercel.app/]
+
 # How to run the project
 
 ```
